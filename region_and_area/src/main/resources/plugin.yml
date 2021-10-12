@@ -1,9 +1,0 @@
-name: RegionPlugin
-version: '${project.version}'
-main: com.io.region.region.plugin.RegionPlugin
-api-version: 1.16
-commands:
-  region:
-    description: 레지온~~
-  area:
-    description: 아레아~~

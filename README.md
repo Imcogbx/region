@@ -40,5 +40,6 @@ member =>
 
 시간이 되는대로 개발하여 최적화를 향상시키겠습니다.
 
+참고본 github.com/monun/regions
 
 Jommand(JAVA 최적화 COMMAND) 프로젝트 배포및 적용 예정
